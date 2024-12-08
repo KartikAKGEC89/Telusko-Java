@@ -1,3 +1,5 @@
+package ClassandObject;
+
 class calculator {
     int n = 10;
 
@@ -15,7 +17,7 @@ public class ClassandObject {
 
         calculator cal = new calculator();
 
-        int result = cal.add(num1,num2);
+        int result = cal.add(num1, num2);
 
         System.out.println(result);
     }
