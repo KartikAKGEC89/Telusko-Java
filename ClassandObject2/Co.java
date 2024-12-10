@@ -29,8 +29,8 @@ public class Co {
         obj.setAge(30);
 
         System.out.println(obj.getName());
-        ;
+
         System.out.println(obj.getAge());
-        ;
+
     }
 }
