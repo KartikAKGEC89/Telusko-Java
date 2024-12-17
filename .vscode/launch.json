@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lambdafunction",
+            "request": "launch",
+            "mainClass": "Annotations.lambdafunction",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterfaceff",
+            "request": "launch",
+            "mainClass": "Annotations.FunctionalInterfaceff",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterface",
+            "request": "launch",
+            "mainClass": "Annotations.FunctionalInterface",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Annotations",
+            "request": "launch",
+            "mainClass": "Annotations.Annotations",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "enumclass",
             "request": "launch",
             "mainClass": "enumclass",
