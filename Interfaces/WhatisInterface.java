@@ -40,3 +40,9 @@ public class WhatisInterface {
 // An Interface in Java programming language is defined as an abstract type used
 // to specify the behavior of a class. An interface in Java is a blueprint of a
 // behavior. A Java interface contains static constants and abstract methods.
+
+// Implementation: To implement an interface, we use the keyword implements
+
+// class - class -> extends
+// class - interface -> implements
+// interface - interface -> extends
