@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "enumclass",
+            "request": "launch",
+            "mainClass": "enumclass",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "enumifelse",
             "request": "launch",
             "mainClass": "enumifelse",
