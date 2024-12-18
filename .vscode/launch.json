@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RaceCondition",
+            "request": "launch",
+            "mainClass": "Thread.RaceCondition",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "RunnableThread",
+            "request": "launch",
+            "mainClass": "Thread.RunnableThread",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "ThreadPriorityandSleep",
+            "request": "launch",
+            "mainClass": "Thread.ThreadPriorityandSleep",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Threadclass",
+            "request": "launch",
+            "mainClass": "Thread.Threadclass",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "ScannerInput",
             "request": "launch",
             "mainClass": "ScannerInput",
