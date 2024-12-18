@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ScannerInput",
+            "request": "launch",
+            "mainClass": "ScannerInput",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "CustomException",
             "request": "launch",
             "mainClass": "Exception.CustomException",
