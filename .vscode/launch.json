@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomException",
+            "request": "launch",
+            "mainClass": "Exception.CustomException",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "ThrowKeyword",
+            "request": "launch",
+            "mainClass": "Exception.ThrowKeyword",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Block",
+            "request": "launch",
+            "mainClass": "Exception.Block",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "TryandCatch",
+            "request": "launch",
+            "mainClass": "Exception.TryandCatch",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "WhatIsException",
+            "request": "launch",
+            "mainClass": "Exception.WhatIsException",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "Lambdafunctionwithreturn",
             "request": "launch",
             "mainClass": "Annotations.Lambdafunctionwithreturn",
