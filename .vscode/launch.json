@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComporatorImplementation",
+            "request": "launch",
+            "mainClass": "ComporatorImplementation",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "CollectionSet",
             "request": "launch",
             "mainClass": "CollectionSet",
