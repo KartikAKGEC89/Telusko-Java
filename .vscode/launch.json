@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CollectionSet",
+            "request": "launch",
+            "mainClass": "CollectionSet",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "CollectionMap",
+            "request": "launch",
+            "mainClass": "CollectionMap",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "CollectionArrayList",
+            "request": "launch",
+            "mainClass": "CollectionArrayList",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "RaceCondition",
             "request": "launch",
             "mainClass": "Thread.RaceCondition",
