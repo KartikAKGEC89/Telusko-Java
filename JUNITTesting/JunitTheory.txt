@@ -49,3 +49,8 @@ Right-clicking on a target folder and selecting Create Maven Project
 src\main\java ----> Used for creating Project
 
 src\test\java ----> Used for creating Testing
+
+@test 
+
+The @Test annotation is a line of code in a program that marks a method as a test case. 
+It's a core annotation in TestNG, and is used to control which method is executed next in a test script.
