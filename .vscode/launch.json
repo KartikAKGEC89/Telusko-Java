@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StreamApi",
+            "request": "launch",
+            "mainClass": "StreamApi",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "ComporatorImplementation",
             "request": "launch",
             "mainClass": "ComporatorImplementation",
