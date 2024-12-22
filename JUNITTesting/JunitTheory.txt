@@ -1,0 +1,51 @@
+JUnit is a unit testing framework for Java programming language. 
+JUnit has been important in the development of test-driven development, 
+and is one of a family of unit testing frameworks collectively known as 
+xUnit, that originated with JUnit.
+
+Unit testing is usually done during the software development stage, and 
+is often the first layer of testing before the software is released. The 
+goal of unit testing is to ensure that the code works as intended, and to 
+identify any errors that could affect the software's performance.
+
+Manual Testing	:-
+Executing a test cases manually without any tool support is known as manual testing.	
+Time-consuming and tedious − Since test cases are executed by human resources, it is very slow and tedious.	
+Huge investment in human resources − As test cases need to be executed manually, more testers are required in manual testing.
+
+Automated Testing :- 
+Fast − Automation runs test cases significantly faster than human resources.
+Taking tool support and executing the test cases by using an automation tool is known as automation testing.
+Less investment in human resources − Test cases are executed using automation tools, so less number of testers are required in automation testing.
+
+
+
+Features of JUnit
+JUnit is an open source framework, which is used for writing and running tests.
+
+Provides annotations to identify test methods.
+
+Provides assertions for testing expected results.
+
+Provides test runners for running tests.
+
+JUnit tests allow you to write codes faster, which increases quality.
+
+JUnit is elegantly simple. It is less complex and takes less time.
+
+JUnit tests can be run automatically and they check their own results and provide immediate feedback. There's no need to manually comb through a report of test results.
+
+JUnit tests can be organized into test suites containing test cases and even other test suites.
+
+JUnit shows test progress in a bar that is green if the test is running smoothly, and it turns red when a test fails.
+
+
+Steps :- 
+
+Selecting the + Create Maven Project button from the Maven Explorer
+Opening the Command Palette (Ctrl+Shift+P) and searching for the Create Java Project command
+Right-clicking on a target folder and selecting Create Maven Project
+
+src\main\java ----> Used for creating Project
+
+src\test\java ----> Used for creating Testing

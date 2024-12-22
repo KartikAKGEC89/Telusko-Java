@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "WrapperClass",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "Streams",
             "request": "launch",
             "mainClass": "Streams",
