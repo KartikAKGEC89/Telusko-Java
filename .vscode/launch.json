@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "DSA.Array.MergeSort",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "DSA.Array.Sorting",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "DSA.Array.Array",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "WrapperClass",
             "request": "launch",
             "mainClass": "WrapperClass",
