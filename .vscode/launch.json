@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "DSA.Stack.Stack",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "SelfLinkedList",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.SelfLinkedList",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
+            "name": "PrebuiltLL",
+            "request": "launch",
+            "mainClass": "DSA.LinkedList.PrebuiltLL",
+            "projectName": "Java_12b18e2a"
+        },
+        {
+            "type": "java",
             "name": "MergeSort",
             "request": "launch",
             "mainClass": "DSA.Array.MergeSort",
