@@ -1,0 +1,15 @@
+To establish a JDBC connection in Java, you can follow these steps:-
+
+Import the packages: Import all the packages that contain the JDBC classes, interfaces, and subclasses.
+
+Load the drivers: Use the forName() method to load the drivers.
+
+Register the drivers: Use DriverManager to register the drivers.
+
+Establish a connection: Use the Connection class object to establish a connection.
+
+Create a statement: Allocate a Statement object to hold a SQL command.
+
+Execute the query: Write a SQL query and execute it using the Statement.
+ 
+Close the connections: Close the Statement and Connection to free up resources.
